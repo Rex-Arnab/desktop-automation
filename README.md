@@ -1,6 +1,8 @@
 # <center>**Desktop Automation**</center>
 
-![Demo Video](demo.mp4)
+<video controls autoplay muted>
+  <source src="demo.mp4" type="video/mp4">
+</video>
 
 This project demonstrates desktop automation using Python, Tesseract OCR, and AI. It extracts text from images and leverages AI to perform actions based on that extracted text.
 
